@@ -22,6 +22,9 @@ I just needed an easy place to put some information for day 1 raiding with my fr
     * [Bountiful Wells](#bountiful-wells)
     * [Elemntal Time Dilation](#elemental-time-dilation)
     * [Well of Life](#well-of-life)
+  * [Example Mod Configuration](#example-mod-configuration)
+    * [Build 1](#build-1)
+    * [Build 2](#build-2)
 * [Guns](#guns)
   * [Kinetic](#kinetic)
   * [Energy](#energy)
@@ -125,6 +128,8 @@ These are probably (you're taking advice from some random dude on the internet s
 * Provides constant health regen for 10 seconds after picking up a SOLAR EW.
 
 ### Example Mod Configuration
+
+These are some example builds and ways these EW mods can be configured.
 
 #### Build 1
 
