@@ -202,7 +202,7 @@ If you are running a VOID subclass, preference should be given to VOID weapons s
 #### Legendary
 
 * Preferred ad clear weapon of each affinity
-  * Have Ikelos SMG ready just in case. It is currently bugged and doing 40% extra damage to red-bars
+  * Have ~~Ikelos SMG~~ (DISABLED) ready just in case. It is currently bugged and doing 40% extra damage to red-bars
 * Sniper Rifle
 * Scout Rifle/Pulse Rifle
 * Slug Shotgun
@@ -225,9 +225,9 @@ If you are running a VOID subclass, preference should be given to VOID weapons s
 * Tractor Cannon
 * 1k Voices
 * Sleeper
-* Wardcliff
+* ~~Wardcliff~~ (DISABLED)
   * 50% damage reduction against bosses has apparently been removed, possible bug, may be resolved by raid day.
-* Grand Overture
+* ~~Grand Overture~~ (DISABLED)
   * Not actually good (I think) but picking up a heavy brick then switching to this gun gives max or close to max heavy ammo.
 
 #### Legendary
